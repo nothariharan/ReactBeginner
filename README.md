@@ -1,6 +1,6 @@
 # React Beginner Projects
 
-A collection of React mini-projects for learning and practice.
+A collection of React mini-projects for learning and practice.( cba adding css for each gang 🥀
 
 ## Projects Included
 
