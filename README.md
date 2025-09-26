@@ -19,25 +19,11 @@ A collection of React mini-projects for learning and practice.
 - Uses useState for state management
 - Features: input field, submit button, and todo list
 
-## Getting Started
+### 3.Calculator (`src/components/Calculator.jsx`)
+- Simple calculator with all operations included
+- Uses useState for state management and eval() with string states to evaluate functions
+- Features: All operations on numbers and decimal numbers also clear number options
 
-1. Clone the repository:
-```bash
-git clone https://github.com/nothariharan/ReactBeginner.git
-cd ReactBeginner
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to the local development URL (usually `http://localhost:5173`)
 
 ## Project Structure
 
